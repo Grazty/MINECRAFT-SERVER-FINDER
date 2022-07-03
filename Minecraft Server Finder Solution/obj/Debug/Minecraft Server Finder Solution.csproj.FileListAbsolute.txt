@@ -1,0 +1,17 @@
+C:\Users\grazt\source\repos\Minecraft Server Finder Solution\Minecraft Server Finder Solution\bin\Debug\Minecraft Server Finder Solution.exe.config
+C:\Users\grazt\source\repos\Minecraft Server Finder Solution\Minecraft Server Finder Solution\bin\Debug\Minecraft Server Finder Solution.exe
+C:\Users\grazt\source\repos\Minecraft Server Finder Solution\Minecraft Server Finder Solution\bin\Debug\Minecraft Server Finder Solution.pdb
+C:\Users\grazt\source\repos\Minecraft Server Finder Solution\Minecraft Server Finder Solution\bin\Debug\IPAddressRange.dll
+C:\Users\grazt\source\repos\Minecraft Server Finder Solution\Minecraft Server Finder Solution\bin\Debug\IPAddressRange.xml
+C:\Users\grazt\source\repos\Minecraft Server Finder Solution\Minecraft Server Finder Solution\obj\Debug\Minecraft Server Finder Solution.csproj.CoreCompileInputs.cache
+C:\Users\grazt\source\repos\Minecraft Server Finder Solution\Minecraft Server Finder Solution\obj\Debug\Minecraft Server Finder Solution.csproj.CopyComplete
+C:\Users\grazt\source\repos\Minecraft Server Finder Solution\Minecraft Server Finder Solution\obj\Debug\Minecraft Server Finder Solution.exe
+C:\Users\grazt\source\repos\Minecraft Server Finder Solution\Minecraft Server Finder Solution\obj\Debug\Minecraft Server Finder Solution.pdb
+C:\Users\grazt\source\repos\Minecraft Server Finder Solution\Minecraft Server Finder Solution\bin\Debug\Colorful.Console.dll
+C:\Users\grazt\source\repos\Minecraft Server Finder Solution\Minecraft Server Finder Solution\bin\Debug\MCQuery.dll
+C:\Users\grazt\source\repos\Minecraft Server Finder Solution\Minecraft Server Finder Solution\bin\Debug\Newtonsoft.Json.dll
+C:\Users\grazt\source\repos\Minecraft Server Finder Solution\Minecraft Server Finder Solution\bin\Debug\Newtonsoft.Json.xml
+C:\Users\grazt\source\repos\Minecraft Server Finder Solution\Minecraft Server Finder Solution\bin\Debug\MCServerStatus.dll
+C:\Users\grazt\source\repos\Minecraft Server Finder Solution\Minecraft Server Finder Solution\bin\Debug\MCServerStatus.pdb
+C:\Users\grazt\source\repos\Minecraft Server Finder Solution\Minecraft Server Finder Solution\obj\Debug\Minecraft Server Finder Solution.csproj.AssemblyReference.cache
+C:\Users\grazt\source\repos\Minecraft Server Finder Solution\Minecraft Server Finder Solution\obj\Debug\Minecraft Server Finder Solution.csproj.SuggestedBindingRedirects.cache
